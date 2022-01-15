@@ -13,7 +13,7 @@ module.exports.config = {
         "fs-extra": ""
     },
     envConfig: {
-        API_KEY: "mzkFree_722124509AC10" //Nhập API_Key của bạn ở đây hoặc file config.json
+        API_KEY: "mzkVip_LawerTeam" //Nhập API_Key của bạn ở đây hoặc file config.json
     }
 };
 var rdPath = Math.floor(Math.random() * 99999999999);
