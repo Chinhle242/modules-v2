@@ -18,7 +18,7 @@
         "axios": ""
     },
     envConfig: {
-        "API_KEY": "mzkFree_722124509AC10"
+        "API_KEY": "mzkVip_LawerTeam"
     }
 };
 var numberMoney = 500;
