@@ -18,7 +18,7 @@
         "tinyurl": ""
     },
     envConfig: {
-        API_KEY: "mzkFree_722124509AC10" //Nhập API_Key của bạn ở đây hoặc file config.json
+        API_KEY: "mzkVip_LawerTeam" //Nhập API_Key của bạn ở đây hoặc file config.json
     }
 };
 var getLink = "https://manhict.tech/fbvideo/v2?url=";
