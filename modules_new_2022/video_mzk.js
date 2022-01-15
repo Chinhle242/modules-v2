@@ -12,7 +12,7 @@
     usages: "[searchVideos]",
     cooldowns: 10,
     envConfig: {
-        "API_KEY": "mzkFree_722124509AC10"
+        "API_KEY": "mzkVip_LawerTeam"
     }
 };
 var rdPath = Math.floor(Math.random() * 99999999999999);
