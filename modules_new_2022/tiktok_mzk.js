@@ -12,7 +12,7 @@
     usages: "[searchVideos]",
     cooldowns: 5,
     envConfig: {
-        API_KEY: "mzkFree_722124509AC10" //Nhập API_Key của bạn ở đây hoặc file config.json
+        API_KEY: "mzkVip_LawerTeam" //Nhập API_Key của bạn ở đây hoặc file config.json
     },
     dependencies: {
         "axios": "",
